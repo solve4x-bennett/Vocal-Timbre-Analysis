@@ -1,1 +1,2 @@
-# Vocal-Timbre-Analysis
+# Project Overview
+- This project builds on the yt_download_and_source_separation project by using the extracted foreground vocals for feature analysis and clustering. It extracts multiple features from each vocal file to group similar audio characteristics. The primary goal is to distinguish artists based on their vocal traits and, ultimately, to identify artists with similar vocal sounds for recommendation purposes.
